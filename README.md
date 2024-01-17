@@ -1,7 +1,7 @@
 # Projeto para aula de Introdução a Ciência de Dados
 ## Analisar dados do spotify.
 
-Perguntas para análise:
+Perguntas para análise:  
 Qual o melhor mês para lançamento de uma música?
 
 A frequência que uma música é reproduzida acompanha a quantidade de playlists em que ela é incluída? 
